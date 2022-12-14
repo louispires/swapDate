@@ -1,0 +1,15 @@
+C:\Working\source\swapDate\bin\Debug\net7.0\swapDate.exe
+C:\Working\source\swapDate\bin\Debug\net7.0\swapDate.deps.json
+C:\Working\source\swapDate\bin\Debug\net7.0\swapDate.runtimeconfig.json
+C:\Working\source\swapDate\bin\Debug\net7.0\swapDate.dll
+C:\Working\source\swapDate\bin\Debug\net7.0\swapDate.pdb
+C:\Working\source\swapDate\obj\Debug\net7.0\swapDate.csproj.AssemblyReference.cache
+C:\Working\source\swapDate\obj\Debug\net7.0\swapDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\source\swapDate\obj\Debug\net7.0\swapDate.AssemblyInfoInputs.cache
+C:\Working\source\swapDate\obj\Debug\net7.0\swapDate.AssemblyInfo.cs
+C:\Working\source\swapDate\obj\Debug\net7.0\swapDate.csproj.CoreCompileInputs.cache
+C:\Working\source\swapDate\obj\Debug\net7.0\swapDate.dll
+C:\Working\source\swapDate\obj\Debug\net7.0\refint\swapDate.dll
+C:\Working\source\swapDate\obj\Debug\net7.0\swapDate.pdb
+C:\Working\source\swapDate\obj\Debug\net7.0\swapDate.genruntimeconfig.cache
+C:\Working\source\swapDate\obj\Debug\net7.0\ref\swapDate.dll
