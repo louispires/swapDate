@@ -1,6 +1,6 @@
 # swapDate
 
-Simple console app that swaps yyyy/mm/dd to dd/mm/yyyy in a text file (Whatsapp Export Chat TXT)
+Simple console app that swaps `yyyy/mm/dd` to `dd/mm/yyyy` in a text file (Whatsapp Export Chat TXT)
 
 
 Sample Before:
