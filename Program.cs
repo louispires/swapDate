@@ -4,7 +4,7 @@ int counter = 0;
 StringBuilder sb = new StringBuilder();
   
 // Read the file and display it line by line.  
-foreach (string line in System.IO.File.ReadLines(@"C:\Users\louis\Downloads\WhatsApp Chat with Michael Harris.txt"))
+foreach (string line in System.IO.File.ReadLines(@"C:\Users\louis\Downloads\WhatsApp Chat with John Snow.txt"))
 {  
     if (line.Length > 10 && line.Substring(4, 1).Equals(@"/"))
     {
@@ -20,7 +20,7 @@ foreach (string line in System.IO.File.ReadLines(@"C:\Users\louis\Downloads\What
     counter++;  
 }  
 
-using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\louis\Downloads\WhatsApp Chat with Michael Harris - DateFixed.txt"))
+using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\louis\Downloads\WhatsApp Chat with John Snow - DateFixed.txt"))
 {
     file.WriteLine(sb.ToString());
 }
